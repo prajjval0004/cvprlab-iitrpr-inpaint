@@ -15,7 +15,6 @@ click==8.0.4
 comm==0.1.4
 commonmark==0.9.1
 cycler==0.11.0
-dataclasses==0.8
 decorator==5.1.1
 defusedxml==0.7.1
 entrypoints==0.4
@@ -82,7 +81,7 @@ testpath==0.6.0
 thop==0.1.1.post2209072238
 toml==0.10.2
 toolz==0.12.0
-torch==1.10.1
+torch
 torchvision==0.11.2
 tornado==6.1
 tqdm==4.64.1
